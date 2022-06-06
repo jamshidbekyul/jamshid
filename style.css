@@ -1,0 +1,12 @@
+.container{
+  border: 1px solid black;
+  height: 80vh;
+}
+.row{
+  display: flex;
+}
+.item{
+  padding: 10px;
+  border: 1px solid white; 
+  background-color: red;
+}
